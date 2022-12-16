@@ -1,0 +1,31 @@
+APScheduler==3.6.3
+brotlipy==0.7.0
+cachetools==4.2.2
+certifi @ file:///C:/b/abs_ac29jvt43w/croot/certifi_1665076682579/work/certifi
+cffi @ file:///C:/b/abs_49n3v2hyhr/croot/cffi_1670423218144/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click @ file:///C:/ci/click_1646038595831/work
+colorama @ file:///C:/Windows/TEMP/abs_9439aeb1-0254-449a-96f7-33ab5eb17fc8apleb4yn/croots/recipe/colorama_1657009099097/work
+cryptography @ file:///C:/b/abs_36x9ifdcl4/croot/cryptography_1665612655344/work
+Flask @ file:///C:/ci/flask_1658841816156/work
+idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
+importlib-metadata @ file:///C:/ci/importlib-metadata_1648562621412/work
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+Jinja2 @ file:///C:/b/abs_7cdis66kl9/croot/jinja2_1666908141852/work
+MarkupSafe @ file:///C:/ci/markupsafe_1654508077284/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+PySocks @ file:///C:/ci/pysocks_1605307512533/work
+python-telegram-bot==13.15
+pytz==2022.6
+pytz-deprecation-shim==0.1.0.post0
+requests @ file:///C:/ci/requests_1657735342357/work
+six==1.16.0
+tornado==6.1
+tzdata==2022.7
+tzlocal==4.2
+urllib3 @ file:///C:/b/abs_21qa0j12xt/croot/urllib3_1670527000672/work
+Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
+wincertstore==0.2
+zipp @ file:///C:/ci/zipp_1652273994994/work
